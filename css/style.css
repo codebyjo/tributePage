@@ -225,3 +225,17 @@ html, body {
 #section3 {
     background-color: #f06;
 }
+
+p {
+ text-align: center;
+}
+
+.container {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+  
+div .container p {
+  margin: 0 }
